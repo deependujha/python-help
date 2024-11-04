@@ -1,6 +1,7 @@
 # Python helpful codes
 
 1. Import library
+
 ```python
 import sys
 import os

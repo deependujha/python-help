@@ -79,4 +79,4 @@ if __name__ == "__main__":
     - `target` is the function to be executed by the process.
     - `args` is the arguments to be passed to the target function.
 
-![multiprocessing](../images/multithreading/Multiprocessing-Python.png)
+![multiprocessing](../../images/multithreading/Multiprocessing-Python.png)

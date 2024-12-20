@@ -91,7 +91,7 @@ if __name__ == "__main__":
     t2.join()
 ```
 
-![multithreading](../images/multithreading/multithreading-python.png)
+![multithreading](../../images/multithreading/multithreading-python.png)
 
 ---
 

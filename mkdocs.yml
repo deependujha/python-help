@@ -141,3 +141,6 @@ nav:
     - Network & IPC:
       - Async:
         - Intro: 04-network-and-ipc/01-async/01-intro.md
+        - High Level API: 04-network-and-ipc/01-async/02-high-level-api.md
+        - Low Level API: 04-network-and-ipc/01-async/03-low-level-api.md
+        - Async Event: 04-network-and-ipc/01-async/04-async-event.md

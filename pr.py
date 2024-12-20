@@ -1,9 +1,8 @@
-from functools import reduce
+import asyncio
 
-def add(x, y):
-    print(f"{x=}, {y=}")
-    return x + y
+async def main():
+    print("main func")
+    await asyncio.sleep(1)
+    print('hello')
 
-numbers = [1, 2, 3, 4, 5]
-sum = reduce(add, numbers,100)
-print(sum)  # 15
+asyncio.run(main())

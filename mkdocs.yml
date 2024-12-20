@@ -133,3 +133,4 @@ nav:
         - Argument Parser: 01-cli/01-argument-parser.md
       - Threading:
         - Introduction: 02-threading/01-intro.md
+        - Custom Thread: 02-threading/02-custom-thread.md

@@ -1,5 +1,5 @@
 # Project information
-site_name: Python Helpful codes 🧑🏻‍💻
+site_name: Python codes 🧑🏻‍💻
 site_url: https://deependujha.github.io/python-help
 site_author: Deependu Jha
 site_description: >-
@@ -122,7 +122,22 @@ nav:
     - Basics:
       - CLI:
         - Argument Parser: 01-cli/01-argument-parser.md
+      - Data Structures:
+        - Map, Filter, Reduce: 02-data-structures/01-map-filter-reduce-lambda.md
+        - Queue: 02-data-structures/02-queue.md
+    - Concurrency:
       - Threading:
-        - Introduction: 02-threading/01-intro.md
-        - Custom Thread: 02-threading/02-custom-thread.md
-        - Event: 02-threading/03-event.md
+        - Introduction: 03-concurrency/01-threading/01-intro.md
+        - Custom Thread: 03-concurrency/01-threading/02-custom-thread.md
+        - Event: 03-concurrency/01-threading/03-event.md
+      - Multiprocessing:
+        - Introduction: 03-concurrency/02-processing/01-intro.md
+        - Communication: 03-concurrency/02-processing/02-communication.md
+        - Locking: 03-concurrency/02-processing/03-locking.md
+        - Manager: 03-concurrency/02-processing/04-manager.md
+        - Process pool: 03-concurrency/02-processing/05-process-pool.md
+        - Custom Process: 03-concurrency/02-processing/06-custom-process.md
+      - Concurrent Executor: 03-concurrency/03-concurrent-executor.md
+    - Network & IPC:
+      - Async:
+        - Intro: 04-network-and-ipc/01-async/01-intro.md
